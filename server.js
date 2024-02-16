@@ -11,6 +11,7 @@ const Paymentrouter = require('./routes/paymentRoutes');
 const cookiesParser = require('cookie-parser');
 // Import helmet for security headers
 
+// Hello brother
 ConnectDB();
 const allowedOrigins = ['https://seoneg7g.com', 'http://localhost:3000','https://shree-ram-admin-panel.vercel.app'];
 
